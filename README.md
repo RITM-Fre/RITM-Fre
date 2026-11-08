@@ -41,14 +41,13 @@
 
 </div>
 
-## فعالیت گیت‌هاب
+## بازی مار گیت‌هاب 🐍
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RITM-Fre&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9&icon_color=a78bfa" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RITM-Fre&hide_border=true&background=0d1117&ring=67e8f9&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak" />
+<img src="https://raw.githubusercontent.com/RITM-Fre/RITM-Fre/output/github-snake.svg" alt="انیمیشن مار که به‌صورت خودکار روی contributionها حرکت می‌کند" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RITM-Fre&bg_color=0d1117&color=c9d1d9&line=67e8f9&point=a78bfa&area=true&hide_border=true" alt="GitHub activity graph" />
+*مار خودش روی contributionها حرکت می‌کند؛ برایش workflow گذاشتم تا انیمیشن هر روز به‌روز شود.*
 
 </div>
 
