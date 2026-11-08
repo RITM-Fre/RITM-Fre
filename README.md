@@ -2,12 +2,15 @@
 
 # سلام، من RITM-Fre هستم 👋
 
-### سازندهٔ وب‌سایت و علاقه‌مند به برنامه‌نویسی با کمک هوش مصنوعی
+### ایده‌هام رو با کدنویسی و کمک هوش مصنوعی به پروژه تبدیل می‌کنم
 
-با کمک AI ایده‌هایم را به پروژه‌های واقعی تبدیل می‌کنم و با **HTML، Kotlin** و ابزارهای مختلف کار می‌کنم.
+**صاحب Ritenger.ir و PentaWork.ir** · علاقه‌مند به ساختن و یادگرفتن
 
-[![Ritenger](https://img.shields.io/badge/Ritenger.ir-بازدید-6C5CE7?style=for-the-badge)](https://Ritenger.ir)
-[![PentaWork](https://img.shields.io/badge/PentaWork.ir-بازدید-00B894?style=for-the-badge)](https://PentaWork.ir)
+<a href="https://ritenger.ir"><img src="https://ritenger.ir/favicon.ico" alt="لوگوی Ritenger" width="48" height="48"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://pentawork.ir"><img src="https://pentawork.ir/favicon.ico" alt="لوگوی PentaWork" width="48" height="48"></a>
+
+[🌐 Ritenger.ir](https://ritenger.ir) &nbsp; · &nbsp; [🌐 PentaWork.ir](https://pentawork.ir)
 
 </div>
 
@@ -15,27 +18,32 @@
 
 ## دربارهٔ من
 
-- 💻 برنامه‌نویسی و ساخت پروژه با کمک ابزارهای هوش مصنوعی
-- 🌐 کار با HTML و فناوری‌های مختلف وب
-- 📱 علاقه‌مند به Kotlin و ساخت چیزهای جدید
-- 🚀 صاحب وب‌سایت‌های [Ritenger.ir](https://Ritenger.ir) و [PentaWork.ir](https://PentaWork.ir)
-- 🌱 همیشه در حال یادگیری و تبدیل ایده‌ها به پروژه
+برنامه‌نویسی را با کمک ابزارهای هوش مصنوعی انجام می‌دهم و از امتحان‌کردن ایده‌های تازه و ساخت پروژه‌های کاربردی لذت می‌برم. دو وب‌سایت **Ritenger.ir** و **PentaWork.ir** را هم راه‌اندازی کرده‌ام.
 
-## فناوری‌ها و ابزارها
+## زبان‌ها و فناوری‌ها
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![AI](https://img.shields.io/badge/AI-assisted-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JSON-292929?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+</p>
 
-## وب‌سایت‌ها
+## پروژه‌های من
 
-- 🌐 [Ritenger.ir](https://Ritenger.ir)
-- 🌐 [PentaWork.ir](https://PentaWork.ir)
+| وب‌سایت | لینک |
+|:--|:--|
+| <img src="https://ritenger.ir/favicon.ico" alt="" width="20" height="20"> **Ritenger** | [ritenger.ir](https://ritenger.ir) |
+| <img src="https://pentawork.ir/favicon.ico" alt="" width="20" height="20"> **PentaWork** | [pentawork.ir](https://pentawork.ir) |
 
 ---
 
 <div align="center">
 
-✨ ممنون که به پروفایلم سر زدی! ✨
+**ممنون که سر زدی!** ✨
 
 </div>
